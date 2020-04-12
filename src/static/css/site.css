@@ -1,0 +1,48 @@
+*{
+    font-family: monospace;
+    margin: 0px;
+}
+
+body{
+    margin-top: 5%;
+    margin-bottom: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+}
+
+div{
+    display: block;
+}
+
+h1{
+    font-size: 4em;
+    font-weight: bold;
+    margin-bottom: 0em;
+}
+
+.navy{
+    color: #28008d;
+}
+
+#main{
+    max-width: 100%;
+}
+
+#main p{
+    margin-top: 2em;
+}
+
+#contact-list{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 8%;
+}
+
+.contact svg{
+    width: 5.5em;
+}
+
+.contact svg:hover{
+    fill:#28008d;
+}
