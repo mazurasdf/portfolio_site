@@ -10,6 +10,7 @@ import { ReactComponent as ReactLogo } from '../static/svg/react.svg';
 import { ReactComponent as HTML5Logo } from '../static/svg/html.svg';
 import { ReactComponent as CSSLogo } from '../static/svg/css.svg';
 import { ReactComponent as MySQLLogo } from '../static/svg/mysql.svg';
+import { ReactComponent as CPP } from '../static/svg/cpp.svg';
 
 
 const Skills = (props) => {
@@ -34,6 +35,10 @@ const Skills = (props) => {
                 <Skill
                     text="node.js">
                     <Node />
+                </Skill>
+                <Skill
+                    text="c++">
+                    <CPP />
                 </Skill>
                 <Skill
                     text="django">

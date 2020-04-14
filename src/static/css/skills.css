@@ -1,24 +1,17 @@
 #skills{
-    margin-top: 19%;
+    margin-top: 10%;
 }
 
 .skill{
     min-width: 20%;
     text-align: center;
+    filter: contrast(125%) grayscale(100%);
 }
 
 
 #skills svg{
     width: 5em;
     height: 5em;
-}
-
-.skill svg rect:hover{
-    fill: #28008d;
-}
-
-.skill svg:hover{
-    fill: #28008d;
 }
 
 #skills-list{
@@ -28,3 +21,6 @@
     flex-wrap: wrap;
 }
 
+.skill:hover{
+    filter: contrast(100%) grayscale(0%);
+}
