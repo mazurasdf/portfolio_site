@@ -1,0 +1,30 @@
+#skills{
+    margin-top: 19%;
+}
+
+.skill{
+    min-width: 20%;
+    text-align: center;
+}
+
+
+#skills svg{
+    width: 5em;
+    height: 5em;
+}
+
+.skill svg rect:hover{
+    fill: #28008d;
+}
+
+.skill svg:hover{
+    fill: #28008d;
+}
+
+#skills-list{
+    margin-top: 3.5%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
