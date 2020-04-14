@@ -7,16 +7,17 @@
     text-align: center;
 }
 
-.skill svg{
-    width: 5em;
-}
 
 #skills svg{
     width: 5em;
     height: 5em;
 }
 
-#skills svg:hover{
+.skill svg rect:hover{
+    fill: #28008d;
+}
+
+.skill svg:hover{
     fill: #28008d;
 }
 
