@@ -1,6 +1,5 @@
 import React from 'react';
 import Contact from '../components/Contact';
-import linkedin from '../static/svg/linkedin.svg';
 
 const Main = (props) => {
     return(

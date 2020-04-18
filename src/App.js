@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import Main from './views/Main';
 import Skills from './views/Skills';
 import 'bootstrap/dist/css/bootstrap.min.css';
