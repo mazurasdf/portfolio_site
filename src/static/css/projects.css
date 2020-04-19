@@ -1,0 +1,20 @@
+#projects{
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+
+.project{
+    width: 30em;
+    height: 20em;
+    background-color: blueviolet;
+    border-radius: 2em;
+    margin-bottom: 3em;
+    background-size: contain;
+}
+
+#projects-list{
+    margin-top: 3.5%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
