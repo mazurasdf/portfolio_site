@@ -10,28 +10,31 @@ const Projects = (props) => {
 
             <div id="projects-list">
                 <Project
-                    title="Example"
-                    github="google.com"
+                    title="picross share"
+                    github="https://www.google.com"
+                    videoDemo="https://www.google.com"
                     image={Picross}
                 />
                 <Project
-                    title="Example"
-                    github="google.com"
+                    title="picross share"
+                    videoDemo="https://www.google.com"
                     image={Picross}
                 />
                 <Project
-                    title="Example"
-                    github="google.com"
+                    title="picross share"
+                    github="https://www.google.com"
+                    videoDemo="https://www.google.com"
+                    publishedDemo="https://www.google.com"
                     image={Picross}
                 />
                 <Project
-                    title="Example"
-                    github="google.com"
+                    title="picross share"
+                    github="https://www.google.com"
                     image={Picross}
                 />
                 <Project
-                    title="Example"
-                    github="google.com"
+                    title="picross share"
+                    github="https://www.google.com"
                     image={Picross}
                 />
             </div>

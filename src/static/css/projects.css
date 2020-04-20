@@ -18,3 +18,36 @@
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+
+.project-background{
+    width: inherit;
+    height: inherit;
+}
+
+.project-details{
+    text-align: center;
+    position: relative;
+    bottom: 8em;
+    font-size: 2em;
+    color: white;
+}
+
+/* .project-details-text{
+    display: block;
+} */
+
+.project-details a{
+    color: inherit;
+}
+
+.project-details a:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    text-decoration: inherit;
+}
+
+.detail-box{
+    border: 1px solid white;
+    padding: .1em 1.5em;
+}
